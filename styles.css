@@ -3,10 +3,6 @@ body {
     margin: 20px;
 }
 
-h1 {
-    text-align: center;
-}
-
 ul {
     list-style-type: square; /* Ensures bullet points are shown */
     padding-left: 20px;   /* Adds padding for bullets */
